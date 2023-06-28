@@ -1,0 +1,17 @@
+{
+    "name": "apolm01-019/prueba-php",
+    "description": "prueba php",
+    "authors": [
+        {
+            "name": "SergioGonzalezB11",
+            "email": "sagonzalezbarajas@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "Clases\\" : "./clases",
+            "Models\\" : "./models"
+        }
+    } 
+}
